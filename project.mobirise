@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "site 3ba",
+    "name": "https://juliettedewaal.github.io/juliettedewaal/",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -37,14 +37,17 @@
     "uniqCompNum": 9,
     "versionPublish": "4.7.1",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "cookiesAlert": "",
+    "google-analytics": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "juliette, de waal, juliette de waal",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
